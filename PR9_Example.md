@@ -357,7 +357,6 @@ Name must contain only letters
 
   * формы
   * таблицы
-  * модального окна
 
 ---
 
